@@ -2,6 +2,11 @@
   "name": "upstox",
   "displayName": "upstox",
   "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "26d00e1e-7356-49ad-87d0-3331b7536ecf"
+      }
+    },
     "name": "upstox",
     "slug": "upstox",
     "scheme": "upstox",
